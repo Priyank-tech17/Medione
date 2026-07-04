@@ -1,4 +1,4 @@
-# mediHelp
+
 # MediOne 💊
 
 MediOne is a **MERN Stack** web application that helps users find nearby medical stores and check the availability of medicines. The platform provides a simple and user-friendly interface to search for medicines, locate pharmacies on an interactive map, and access store information based on the user's current location.
